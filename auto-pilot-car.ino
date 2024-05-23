@@ -1,3 +1,10 @@
+//プロジェクト名：Arduino超音波センサー搭載自動制御ロボットカー
+// 開発者：大好洪史
+// 開発日：08/02/2023~08/17/2023
+// 使用言語：C++
+// Status：Complete
+
+
 #include <Servo.h>
 #include <AFMotor.h>
 #define echoPin 39 // Echo Pin
